@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MENU SCENE/Perkenalan Aplikasi.unity
+    guid: f7a1088a041f1524bb78330770abcbf5
+  - enabled: 1
+    path: Assets/Scenes/MENU SCENE/Menu Bab.unity
+    guid: 36cf94836436d2340b977d97ae860db3
+  - enabled: 1
+    path: Assets/Scenes/ALL BAB/Bab 1.unity
+    guid: df2775025ae180d41b661e2c4dab035d
+  - enabled: 1
+    path: Assets/Scenes/ALL BAB/Bab 2.unity
+    guid: a82a66852d22163488e446d8fdaec392
+  - enabled: 1
+    path: Assets/Scenes/ALL BAB/Bab 3.unity
+    guid: 99718bd9b3165e94ca2e2bea05c0fd34
+  - enabled: 1
+    path: Assets/Scenes/ALL BAB/Bab 4.unity
+    guid: 1cd3e9e348652084cb790ae5d8b29d88
+  - enabled: 1
+    path: Assets/Scenes/ALL BAB/Bab 5.unity
+    guid: a8b3ef44cdceb7a48ae9113dfef5da9d
+  - enabled: 1
+    path: Assets/Scenes/ALL BAB/Bab 6.unity
+    guid: 3c654778e141d6f4e9fbd4776a9e4106
+  - enabled: 1
+    path: Assets/Scenes/ALL BAB/Bab 7.unity
+    guid: 6051d3069edb1804f83a8d56b792b9db
+  - enabled: 1
+    path: Assets/Scenes/ALL BAB/Bab 8.unity
+    guid: 0979d351905511f4a939889b6cae1166
+  - enabled: 1
+    path: Assets/Scenes/ALL BAB/Bab 9.unity
+    guid: d5b5dd6781ca59f418f425851906dfb9
+  - enabled: 1
+    path: Assets/Scenes/ALL BAB/Bab 10.unity
+    guid: 92121b0201eed8745b750e8c8c6a9ab7
+  - enabled: 1
+    path: Assets/Scenes/ALL BAB/Bab 11.unity
+    guid: c838696ea5dc1c34da54e511762dfde2
+  - enabled: 1
+    path: Assets/Scenes/MENU SCENE/MenuUtama.unity
+    guid: f235286f7d1c9e94ca051367a04dc70b
+  - enabled: 1
+    path: Assets/Scenes/QuizScene/Quiz 1.unity
+    guid: a2aff6447a7a17b46b63615bfb03c06f
+  - enabled: 1
+    path: Assets/Scenes/QuizScene/Quiz 2.unity
+    guid: 31c6944fbb530644e8433e2e5fa1cc38
+  - enabled: 1
+    path: Assets/Scenes/QuizScene/Quiz 3.unity
+    guid: 331716e6f0eef3c47883e4401ba7232f
+  - enabled: 1
+    path: Assets/Scenes/QuizScene/Quiz 4.unity
+    guid: 2196b3c298d46c24a990f6b761d2f66a
+  - enabled: 1
+    path: Assets/Scenes/QuizScene/Quiz 5.unity
+    guid: bc103d690ffa374428df99088c02d3cd
+  - enabled: 1
+    path: Assets/Scenes/QuizScene/Quiz 6.unity
+    guid: 95952c620225f0c43b7948332c465f43
+  - enabled: 1
+    path: Assets/Scenes/QuizScene/Quiz 7.unity
+    guid: 8f41825814c78394395f2b4905f26064
+  - enabled: 1
+    path: Assets/Scenes/QuizScene/Quiz 8.unity
+    guid: 48f9e27c59be93e4d89553e99ef81b05
+  - enabled: 1
+    path: Assets/Scenes/QuizScene/Quiz 9.unity
+    guid: fdda2ed14d3aa16449b8aadf04d0c730
+  - enabled: 1
+    path: Assets/Scenes/QuizScene/Quiz 10.unity
+    guid: 8ea37b5f6a66e9c498dc6c2427eae2c7
+  - enabled: 1
+    path: Assets/Scenes/QuizScene/Quiz 11.unity
+    guid: 4aec45aa1e00db846a845436ca18f9de
+  - enabled: 1
+    path: Assets/Scenes/MENU SCENE/KumpulanQuiz.unity
+    guid: 32850145ee39bc44aac8937e421097a8
+  - enabled: 1
+    path: Assets/Scenes/MENU SCENE/About.unity
+    guid: 87411029130943b468f6727b5f22d56c
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 5493365f14042e24dacd808330ebb05a, type: 2}
